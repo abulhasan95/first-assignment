@@ -67,3 +67,29 @@ ul #color {
     border-bottom: 2px solid salmon;
     border-radius: 5px;
 }
+
+.container {
+    display: flex;
+    text-align: center;
+    margin: 20px;
+
+}
+
+.food {
+    background-color: rgb(233, 240, 240);
+    margin: 10px;
+}
+
+.family {
+    background-color: rgb(252, 242, 224);
+    margin: 10px;
+}
+
+.education {
+    background-color: rgb(255, 237, 215);
+    margin: 10px;
+}
+
+.sub-container {
+    text-align: center;
+}

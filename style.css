@@ -93,3 +93,49 @@ ul #color {
 .sub-container {
     text-align: center;
 }
+
+.update {
+    text-align: center;
+}
+
+#footer {
+    background-color: black;
+    position: relative;
+    height: 100px;
+}
+
+.humble {
+    color: rgb(241, 68, 68);
+    text-align: center;
+}
+
+.man {
+    color: white;
+    text-align: center;
+    font-size: small;
+}
+
+.box {
+    background-color: rgb(245, 227, 205);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 20vh;
+
+}
+
+.form-box input {
+    background: rgb(212, 223, 223);
+    border: none;
+    padding: 10px 15px;
+}
+
+.form-box button {
+    background: rgb(248, 98, 71);
+    padding: 10px 15px;
+    border: none;
+    color: white;
+
+
+
+}
